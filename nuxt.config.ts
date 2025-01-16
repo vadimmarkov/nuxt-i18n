@@ -7,4 +7,13 @@ export default defineNuxtConfig({
     },
     modules: ['~/modules/i18n'],
     css: ['@@/app/assets/styles/style.css'],
+    hooks: {
+        'build:manifest'(manifest) {
+            for (const item of Object.values(manifest)) {
+                item.dynamicImports = [];
+                item.prefetch = false;
+                item.preload = false;
+            }
+        },
+    },
 });
