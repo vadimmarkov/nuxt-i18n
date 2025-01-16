@@ -1,0 +1,20 @@
+{
+    "Auto Mode": "Auto Mode {text}",
+    "Auto mode": "Auto mode allows you to control your game strategy automatically.",
+    "auto mode will": "auto mode will be stopped after achieving a certain profit (which is calculated from the balance at the time of the auto mode activation).",
+    "bet for auto": "bet for auto mode is the one, that covered the bet amount. The",
+    "bet is the one": "bet is the one, that did not cover the bet amount.",
+    "Come up": "Come up with your own strategies or use existing ones.",
+    "losing": "losing",
+    "Note!": "Note!",
+    "percentage_loss": "the percentage of bet increase when losing (with active mode \"Increase\").",
+    "percentage_win": "the percentage of the bet increase when winning (with active mode \"Increase\").",
+    "Save time": "Save time with Autoplay!",
+    "Stop on loss": "Stop on loss",
+    "Stop on profit": "Stop on profit",
+    "stop the auto": "stop the auto mode upon reaching a certain loss (which is calculated from the balance at the time of activation of the auto game).",
+    "The": "The",
+    "the max bet": "the max bet, used when activating the Increase “On win” or “On loss” function (auto mode is not stopped, the max bet repeats).",
+    "the number of bets": "the number of bets after which the auto mode is automatically turned off.",
+    "winning": "winning"
+}

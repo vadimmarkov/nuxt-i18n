@@ -1,0 +1,16 @@
+{
+    "Activation": "FuryCharge activation",
+    "After the expiration": "After the expiration of the active period, you can withdraw the collected part of your bonus.",
+    "Bonus accrual": "Bonus accrual is available only after it has been withdrawn. When you withdraw a bonus, it immediately drops to your balance. The Bonus percentage increases with the user’s Rank.",
+    "Calculation": "FuryCharge calculation",
+    "Collect": "Collect your bonus in parts at a time interval in any of 6 currencies: BTC, TRX, ETH, USDT, BNB or BFG.",
+    "Desc": "If you've reached Rank 5 and wagered a minimum of $1 000 in the past 7 days, you can activate your FuryCharge. The bonus amount is valid for the next 7 days from the date of its activation. The total bonus amount is distributed for the 7 days period in parts depending on the interval settings. New bonus accrual is available only after the previous one was withdrawn.",
+    "Each time": "Each time you withdraw a bonus, you can choose a different currency. The shorter the period is, the higher is the bonus coefficient.",
+    "If you change": "If you change the frequency of the bonus withdrawal (e.g. from 60 min to 24 hours), the already accrued amount will expire. Withdraw it before changing.",
+    "Important": "Important",
+    "Interval settings": "Interval settings",
+    "list.1": "every 10 min - 1x",
+    "list.2": "every 60 minutes - 1x",
+    "list.3": "every 6 hours - 0.9x",
+    "list.4": "every 24 hours - 0.75x"
+}
